@@ -128,5 +128,19 @@ public class Medico {
 		this.ativo = false;
 		
 	}
+
+
+	public Endereco getEndereco() {
+		return endereco;
+	}
+
+
+	public void setEndereco(Endereco endereco) {
+		this.endereco = endereco;
+	}
+
+
+	
+
 	
 }
