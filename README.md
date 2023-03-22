@@ -1,5 +1,5 @@
 # clinMed
-Api java Spring Boot 3
+API java Spring Boot 3
 
 Tecnologias: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Spring Security e banco de dados MySQL.
 
